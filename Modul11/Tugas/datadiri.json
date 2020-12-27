@@ -1,0 +1,42 @@
+{
+    "dataDiri": {
+        "nama": {
+            "awal": "Suva",
+            "akhir": "Rahadiyan"
+        },
+
+        "jenisKelamin": "Laki-laki",
+
+        "alamat": {
+            "desa": "Jatimulyo",
+            "kecamatan": "Jatiagung",
+            "kabupaten": "Lampung Selatan"
+        },
+
+        "mediaSosial": {
+            "facebook": "suvarahadiyan",
+            "instagram": "suvarahadiyan"
+        },
+
+        "saudara": {},
+
+        "orangTua": {
+            "bapak": {
+                "nama": {
+                    "awal": "Nama",
+                    "akhir": "Samaran Bapak"
+                }
+            },
+            "ibu": {
+                "nama": {
+                    "awal": "Nama",
+                    "akhir": "Samaran Ibu"
+                }
+            }
+        },
+
+        "hobi": {
+            "kegiatan": ["Futsal", "Voli", "Basket"]
+        }
+    }
+}

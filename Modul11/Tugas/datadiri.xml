@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<dataDiri>
+    <nama>
+        <awal>Suva</awal>
+        <akhir>Rahadiyan</akhir>
+    </nama>
+
+    <jenisKelamin>Laki-laki</jenisKelamin>
+
+    <alamat>
+        <desa>Jatimulyo</desa>
+        <kecamatan>Jatiagung</kecamatan>
+        <kabupaten>Lampung Selatan</kabupaten>
+    </alamat>
+
+    <mediaSosial>
+        <facebook>suvarahadiyan</facebook>
+        <instagram>suvarahadiyan</instagram>
+    </mediaSosial>
+
+    <saudara>
+    </saudara>
+
+    <orangTua>
+        <bapak>
+            <nama>
+                <awal>Nama</awal>
+                <akhir>Samaran Bapak</akhir>
+            </nama>
+        </bapak>
+
+        <ibu>
+            <nama>
+                <awal>Nama</awal>
+                <akhir>Samaran Ibu</akhir>
+            </nama>
+        </ibu>
+    </orangTua>
+
+    <hobi>
+        <kegiatan>Futsal</kegiatan>
+        <kegiatan>Voli</kegiatan>
+        <kegiatan>Basket</kegiatan>
+    </hobi>
+</dataDiri>
